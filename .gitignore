@@ -45,3 +45,4 @@ app.*.map.json
 
 # dependencies
 node_modules
+.env
