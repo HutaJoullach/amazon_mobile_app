@@ -1,3 +1,5 @@
+import 'package:amazon_mobile_app/models/user.dart';
+
 class AuthService {
   // sign up user
   void signUpUser({
