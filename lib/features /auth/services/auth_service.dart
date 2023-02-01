@@ -1,4 +1,6 @@
+import 'package:amazon_mobile_app/constants/global_variables.dart';
 import 'package:amazon_mobile_app/models/user.dart';
+import 'package:http/http.dart' as http;
 
 class AuthService {
   // sign up user
